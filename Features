@@ -1,0 +1,53 @@
+# ESP32 Traffic Light Controller
+
+## Project Description
+
+This project is a traffic light controller built using an ESP32 microcontroller and a 16x2 I2C LCD display. The system automatically controls Red, Yellow, and Green traffic signals according to predefined timing intervals. The LCD displays the current signal status along with a countdown timer, simulating the operation of a real-world traffic signal system.
+
+---
+
+## Components Used
+
+- ESP32 Development Board
+- 16x2 I2C LCD Display
+- Red LED
+- Yellow LED
+- Green LED
+- 3 × 220Ω Resistors
+- Jumper Wires
+- Wokwi Simulator
+- PlatformIO (VS Code)
+
+---
+
+## Features
+
+- Automatic traffic signal sequencing
+- Red, Yellow, and Green signal control
+- Real-time countdown timer on LCD display
+- I2C communication between ESP32 and LCD
+- State-machine based traffic light logic
+- Simulated and tested using Wokwi
+- Developed using PlatformIO and VS Code
+
+---
+
+## Concepts Learned
+
+- GPIO Programming
+- Digital Output Control
+- LED Interfacing
+- Resistor Usage
+- I2C Communication Protocol
+- LCD Interfacing
+- Embedded Systems Programming
+- State Machine Design
+- ESP32 Development
+- GitHub Project Management
+
+---
+
+## Author
+
+Arnav Dhakad
+
